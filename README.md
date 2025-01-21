@@ -6,9 +6,6 @@
 </p>
 
 # Aluraflix
-
-![AluraFlix](https://github.com/rzavalamx/alura-flix/blob/main/img/nuevacategoria.jpg)
-
 Aluraflix es una Challenge del programa Oracle Next Education (ONE), consiste en un CRUD o catálogo de videos, diseñada para administrar, visualizar, agregar y eliminar videos organizados por categorías.
 
 ---
