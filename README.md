@@ -53,9 +53,10 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 ## **Uso**
 1. Agrega Nuevas Categorias.
 ![AluraFlix](https://github.com/rzavalamx/alura-flix/blob/main/img/nuevacategoria.jpg)
-3. Agrega un video proporcionando el título, enlace y categoría.
-5. Edita los videos directamente desde la interfaz usando el ícono de edición.
-6. Elimina videos usando el ícono de papelera con confirmación de seguridad.
+2. Agrega un video proporcionando el título, enlace y categoría.
+![AluraFlix](https://github.com/rzavalamx/alura-flix/blob/main/img/nuevovideo.jpg)
+3. Edita los videos directamente desde la interfaz usando el ícono de edición.
+4. Elimina videos usando el ícono de papelera con confirmación de seguridad.
 
 ---
 
